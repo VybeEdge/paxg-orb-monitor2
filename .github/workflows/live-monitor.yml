@@ -1,0 +1,41 @@
+name: PAXGUSD ORB live monitor
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: paxg-orb-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests pytz
+
+      - name: Run monitor
+        run: python delta_orb_action.py
+
+      - name: Commit updated logs
+        run: |
+          git config user.name "orb-monitor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          for f in state.json live_log.txt alerts_log.csv trades_log.csv price_and_equity.csv SUMMARY.md; do
+            [ -f "$f" ] && git add "$f"
+          done
+          git diff --cached --quiet || git commit -m "Log update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
