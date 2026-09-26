@@ -1,0 +1,52 @@
+{
+  "last_bar_time": 1790406180,
+  "open_trade": null,
+  "tiers": {
+    "100": {
+      "balance": 100.0,
+      "peak": 100.0,
+      "max_dd_pct": 0.0,
+      "trades": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "1000": {
+      "balance": 1000.0,
+      "peak": 1000.0,
+      "max_dd_pct": 0.0,
+      "trades": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "10000": {
+      "balance": 10000.0,
+      "peak": 10000.0,
+      "max_dd_pct": 0.0,
+      "trades": 0,
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "alerts_total": 0,
+  "alerts_followed": 0,
+  "alerts_not_followed": 0,
+  "trades_total": 0,
+  "trades_wins": 0,
+  "trades_losses": 0,
+  "sum_R": 0.0,
+  "trades_with_alert": 0,
+  "wins_with_alert": 0,
+  "trades_without_alert": 0,
+  "wins_without_alert": 0,
+  "day": null,
+  "trades_today": 0,
+  "session": null,
+  "range_high": null,
+  "range_low": null,
+  "day_atr": null,
+  "session_ema": null,
+  "range_ok": false,
+  "alerted_up": false,
+  "alerted_dn": false,
+  "closes_before": []
+}
