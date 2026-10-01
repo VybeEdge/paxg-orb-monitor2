@@ -1,56 +1,56 @@
 {
-  "last_bar_time": 1790820060,
+  "last_bar_time": 1790844420,
   "open_trade": null,
   "tiers": {
     "100": {
-      "balance": 113.65211414691974,
+      "balance": 113.61824581690395,
       "peak": 113.65211414691974,
       "max_dd_pct": -2.970099999999988,
-      "trades": 14,
-      "wins": 9,
-      "losses": 5
+      "trades": 17,
+      "wins": 10,
+      "losses": 7
     },
     "1000": {
-      "balance": 1136.5211414691978,
+      "balance": 1136.18245816904,
       "peak": 1136.5211414691978,
       "max_dd_pct": -2.970099999999997,
-      "trades": 14,
-      "wins": 9,
-      "losses": 5
+      "trades": 17,
+      "wins": 10,
+      "losses": 7
     },
     "10000": {
-      "balance": 11365.211414691976,
+      "balance": 11361.824581690398,
       "peak": 11365.211414691976,
       "max_dd_pct": -2.9700999999999937,
-      "trades": 14,
-      "wins": 9,
-      "losses": 5
+      "trades": 17,
+      "wins": 10,
+      "losses": 7
     }
   },
   "alerts_total": 2,
   "alerts_followed": 2,
   "alerts_not_followed": 0,
-  "trades_total": 14,
-  "trades_wins": 9,
-  "trades_losses": 5,
+  "trades_total": 17,
+  "trades_wins": 10,
+  "trades_losses": 7,
   "sum_R": 12.999999999995232,
   "trades_with_alert": 2,
   "wins_with_alert": 1,
-  "trades_without_alert": 12,
-  "wins_without_alert": 8,
+  "trades_without_alert": 15,
+  "wins_without_alert": 9,
   "day": "2026-10-01",
-  "trades_today": 0,
-  "session": 124362,
-  "range_high": 4164.6,
-  "range_low": 4159.0,
-  "day_atr": 2.400000000000156,
-  "session_ema": 4196.026593365648,
-  "range_ok": false,
+  "trades_today": 3,
+  "session": 124364,
+  "range_high": 4174.2,
+  "range_low": 4164.7,
+  "day_atr": 7.44857142857154,
+  "session_ema": 4193.182280885368,
+  "range_ok": true,
   "alerted_up": false,
   "alerted_dn": false,
   "closes_before": [
-    4164.5,
-    4165.1,
-    4163.8
+    4160.0,
+    4160.5,
+    4162.0
   ]
 }
