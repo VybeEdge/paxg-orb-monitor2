@@ -1,52 +1,56 @@
 {
-  "last_bar_time": 1791072360,
+  "last_bar_time": 1791092880,
   "open_trade": null,
   "tiers": {
     "100": {
-      "balance": 113.55053943215293,
-      "peak": 114.69751457793225,
+      "balance": 114.66333471858972,
+      "peak": 115.8215502207977,
       "max_dd_pct": -2.9990149102000077,
-      "trades": 23,
-      "wins": 12,
-      "losses": 11
+      "trades": 25,
+      "wins": 13,
+      "losses": 12
     },
     "1000": {
-      "balance": 1135.5053943215296,
-      "peak": 1146.975145779323,
+      "balance": 1146.6333471858975,
+      "peak": 1158.2155022079774,
       "max_dd_pct": -2.9990149101999912,
-      "trades": 23,
-      "wins": 12,
-      "losses": 11
+      "trades": 25,
+      "wins": 13,
+      "losses": 12
     },
     "10000": {
-      "balance": 11355.053943215296,
-      "peak": 11469.751457793229,
+      "balance": 11466.333471858976,
+      "peak": 11582.155022079774,
       "max_dd_pct": -2.999014910199996,
-      "trades": 23,
-      "wins": 12,
-      "losses": 11
+      "trades": 25,
+      "wins": 13,
+      "losses": 12
     }
   },
   "alerts_total": 6,
   "alerts_followed": 5,
   "alerts_not_followed": 1,
-  "trades_total": 23,
-  "trades_wins": 12,
-  "trades_losses": 11,
-  "sum_R": 12.999999999996259,
+  "trades_total": 25,
+  "trades_wins": 13,
+  "trades_losses": 12,
+  "sum_R": 13.999999999997774,
   "trades_with_alert": 5,
   "wins_with_alert": 2,
-  "trades_without_alert": 18,
-  "wins_without_alert": 10,
+  "trades_without_alert": 20,
+  "wins_without_alert": 11,
   "day": "2026-10-04",
-  "trades_today": 0,
-  "session": 124380,
-  "range_high": 4147.4,
-  "range_low": 4147.3,
-  "day_atr": null,
-  "session_ema": null,
-  "range_ok": false,
+  "trades_today": 2,
+  "session": 124381,
+  "range_high": 4148.7,
+  "range_low": 4148.0,
+  "day_atr": 0.8071428571428052,
+  "session_ema": 4166.455325791722,
+  "range_ok": true,
   "alerted_up": false,
   "alerted_dn": false,
-  "closes_before": []
+  "closes_before": [
+    4146.9,
+    4146.6,
+    4146.8
+  ]
 }
