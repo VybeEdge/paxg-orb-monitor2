@@ -113,3 +113,7 @@
 [2026-10-05 05:19:43 UTC] >>> SELL SIGNAL  entry~4139.70  SL 4144.92  TP 4129.25  (had_alert=False, trade 1/3 today)
 [2026-10-05 05:19:43 UTC] PAPER TRADE CLOSED  SELL entry 4139.70 -> exit 4144.92  result=SL  R=-1.00  (had_alert=False)
 [2026-10-05 05:19:43 UTC] 🔔 ALERT FIRED - WATCH SELL  approaching 4143.10  [alert_id=124387-DN]
+[2026-10-05 07:07:33 UTC] >>> SELL SIGNAL  entry~4142.10  SL 4147.32  TP 4131.65  (had_alert=True, trade 2/3 today)
+[2026-10-05 07:07:33 UTC] PAPER TRADE CLOSED  SELL entry 4142.10 -> exit 4147.32  result=SL  R=-1.00  (had_alert=True)
+[2026-10-05 07:07:33 UTC] >>> SELL SIGNAL  entry~4142.70  SL 4147.92  TP 4132.25  (had_alert=False, trade 3/3 today)
+[2026-10-05 07:07:33 UTC] PAPER TRADE CLOSED  SELL entry 4142.70 -> exit 4147.92  result=SL  R=-1.00  (had_alert=False)
