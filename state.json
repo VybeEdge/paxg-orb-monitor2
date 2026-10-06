@@ -1,56 +1,63 @@
 {
-  "last_bar_time": 1791239460,
-  "open_trade": null,
+  "last_bar_time": 1791253680,
+  "open_trade": {
+    "side": -1,
+    "entry": 4140.1,
+    "sl": 4141.776785714286,
+    "tp": 4136.746428571429,
+    "entry_time": "2026-10-06T01:54:00Z",
+    "had_alert": false
+  },
   "tiers": {
     "100": {
-      "balance": 110.14514182397177,
+      "balance": 107.95325350167472,
       "peak": 115.8215502207977,
-      "max_dd_pct": -4.9009950099999955,
-      "trades": 29,
+      "max_dd_pct": -6.793465209301003,
+      "trades": 31,
       "wins": 13,
-      "losses": 16
+      "losses": 18
     },
     "1000": {
-      "balance": 1101.451418239718,
+      "balance": 1079.5325350167477,
       "peak": 1158.2155022079774,
-      "max_dd_pct": -4.900995010000004,
-      "trades": 29,
+      "max_dd_pct": -6.793465209300987,
+      "trades": 31,
       "wins": 13,
-      "losses": 16
+      "losses": 18
     },
     "10000": {
-      "balance": 11014.51418239718,
+      "balance": 10795.325350167477,
       "peak": 11582.155022079774,
-      "max_dd_pct": -4.9009950099999955,
-      "trades": 29,
+      "max_dd_pct": -6.793465209300993,
+      "trades": 31,
       "wins": 13,
-      "losses": 16
+      "losses": 18
     }
   },
-  "alerts_total": 7,
+  "alerts_total": 8,
   "alerts_followed": 6,
   "alerts_not_followed": 1,
-  "trades_total": 29,
+  "trades_total": 31,
   "trades_wins": 13,
-  "trades_losses": 16,
-  "sum_R": 9.999999999997774,
+  "trades_losses": 18,
+  "sum_R": 7.999999999997774,
   "trades_with_alert": 6,
   "wins_with_alert": 2,
-  "trades_without_alert": 23,
+  "trades_without_alert": 25,
   "wins_without_alert": 11,
-  "day": "2026-10-05",
+  "day": "2026-10-06",
   "trades_today": 3,
-  "session": 124391,
-  "range_high": 4148.9,
-  "range_low": 4145.8,
-  "day_atr": 4.435714285714312,
-  "session_ema": 4157.835811436043,
+  "session": 124392,
+  "range_high": 4145.6,
+  "range_low": 4142.3,
+  "day_atr": 2.2357142857143635,
+  "session_ema": 4157.202131916256,
   "range_ok": true,
-  "alerted_up": false,
+  "alerted_up": true,
   "alerted_dn": false,
   "closes_before": [
-    4150.0,
-    4150.5,
-    4150.3
+    4138.1,
+    4137.8,
+    4137.6
   ]
 }
