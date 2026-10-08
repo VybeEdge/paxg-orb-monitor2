@@ -1,56 +1,56 @@
 {
-  "last_bar_time": 1791416760,
+  "last_bar_time": 1791428460,
   "open_trade": null,
   "tiers": {
     "100": {
-      "balance": 110.0795051007741,
+      "balance": 106.81003371977602,
       "peak": 115.8215502207977,
-      "max_dd_pct": -6.793465209301003,
-      "trades": 35,
+      "max_dd_pct": -7.780517946653695,
+      "trades": 38,
       "wins": 15,
-      "losses": 20
+      "losses": 23
     },
     "1000": {
-      "balance": 1100.7950510077414,
+      "balance": 1068.1003371977606,
       "peak": 1158.2155022079774,
-      "max_dd_pct": -6.793465209300987,
-      "trades": 35,
+      "max_dd_pct": -7.780517946653681,
+      "trades": 38,
       "wins": 15,
-      "losses": 20
+      "losses": 23
     },
     "10000": {
-      "balance": 11007.950510077415,
+      "balance": 10681.003371977606,
       "peak": 11582.155022079774,
-      "max_dd_pct": -6.793465209300993,
-      "trades": 35,
+      "max_dd_pct": -7.780517946653692,
+      "trades": 38,
       "wins": 15,
-      "losses": 20
+      "losses": 23
     }
   },
-  "alerts_total": 9,
-  "alerts_followed": 7,
+  "alerts_total": 11,
+  "alerts_followed": 8,
   "alerts_not_followed": 2,
-  "trades_total": 35,
+  "trades_total": 38,
   "trades_wins": 15,
-  "trades_losses": 20,
-  "sum_R": 9.999999999998005,
-  "trades_with_alert": 7,
+  "trades_losses": 23,
+  "sum_R": 6.999999999998005,
+  "trades_with_alert": 8,
   "wins_with_alert": 3,
-  "trades_without_alert": 28,
+  "trades_without_alert": 30,
   "wins_without_alert": 12,
-  "day": "2026-10-07",
+  "day": "2026-10-08",
   "trades_today": 3,
-  "session": 124403,
-  "range_high": 4114.9,
-  "range_low": 4109.1,
-  "day_atr": 6.642857142857013,
-  "session_ema": 4147.405360284127,
+  "session": 124404,
+  "range_high": 4120.1,
+  "range_low": 4113.8,
+  "day_atr": 3.2357142857144936,
+  "session_ema": 4145.274164585036,
   "range_ok": true,
   "alerted_up": false,
-  "alerted_dn": false,
+  "alerted_dn": true,
   "closes_before": [
-    4119.3,
-    4118.8,
-    4119.3
+    4139.9,
+    4141.1,
+    4140.4
   ]
 }
