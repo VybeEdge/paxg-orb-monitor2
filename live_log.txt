@@ -186,3 +186,4 @@
 [2026-10-10 13:09:26 UTC] >>> BUY SIGNAL  entry~4183.00  SL 4182.59  TP 4183.82  (had_alert=True, trade 3/3 today)
 [2026-10-10 13:09:26 UTC] PAPER TRADE CLOSED  BUY entry 4183.00 -> exit 4183.82  result=TP  R=2.00  (had_alert=True)
 [2026-10-10 13:09:27 UTC] Session 124419 range set: 4182.70-4182.80 (width 0.10, ATR15 0.47, EMA100(1h) 4161.732230564189) -> TRADEABLE
+[2026-10-10 17:51:57 UTC] Session 124420 range set: 4182.40-4183.90 (width 1.50, ATR15 0.58, EMA100(1h) 4163.42317309144) -> SKIPPED (range too wide vs ATR)
