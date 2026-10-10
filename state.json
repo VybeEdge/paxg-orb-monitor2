@@ -1,63 +1,56 @@
 {
-  "last_bar_time": 1791593640,
-  "open_trade": {
-    "side": 1,
-    "entry": 4184.0,
-    "sl": 4183.1375,
-    "tp": 4185.724999999999,
-    "entry_time": "2026-10-10T00:37:00Z",
-    "had_alert": false
-  },
+  "last_bar_time": 1791614940,
+  "open_trade": null,
   "tiers": {
     "100": {
-      "balance": 110.01390749123442,
+      "balance": 107.82463073215885,
       "peak": 115.8215502207977,
       "max_dd_pct": -8.702712767187162,
-      "trades": 41,
+      "trades": 43,
       "wins": 17,
-      "losses": 24
+      "losses": 26
     },
     "1000": {
-      "balance": 1100.1390749123448,
+      "balance": 1078.2463073215893,
       "peak": 1158.2155022079774,
       "max_dd_pct": -8.702712767187142,
-      "trades": 41,
+      "trades": 43,
       "wins": 17,
-      "losses": 24
+      "losses": 26
     },
     "10000": {
-      "balance": 11001.390749123446,
+      "balance": 10782.46307321589,
       "peak": 11582.155022079774,
       "max_dd_pct": -8.702712767187153,
-      "trades": 41,
+      "trades": 43,
       "wins": 17,
-      "losses": 24
+      "losses": 26
     }
   },
-  "alerts_total": 12,
+  "alerts_total": 13,
   "alerts_followed": 8,
   "alerts_not_followed": 4,
-  "trades_total": 41,
+  "trades_total": 43,
   "trades_wins": 17,
-  "trades_losses": 24,
-  "sum_R": 9.999999999998005,
+  "trades_losses": 26,
+  "sum_R": 7.999999999998005,
   "trades_with_alert": 8,
   "wins_with_alert": 3,
-  "trades_without_alert": 33,
+  "trades_without_alert": 35,
   "wins_without_alert": 14,
   "day": "2026-10-10",
-  "trades_today": 1,
-  "session": 124416,
-  "range_high": 4182.7,
-  "range_low": 4181.9,
-  "day_atr": 1.149999999999896,
-  "session_ema": 4156.188865346529,
+  "trades_today": 2,
+  "session": 124417,
+  "range_high": 4182.6,
+  "range_low": 4182.4,
+  "day_atr": 1.332142857143156,
+  "session_ema": 4158.061051981014,
   "range_ok": true,
   "alerted_up": false,
-  "alerted_dn": false,
+  "alerted_dn": true,
   "closes_before": [
-    4185.3,
-    4185.3,
-    4185.28
+    4180.6,
+    4180.6,
+    4180.7
   ]
 }
