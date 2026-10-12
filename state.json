@@ -1,56 +1,56 @@
 {
-  "last_bar_time": 1791786300,
+  "last_bar_time": 1791820560,
   "open_trade": null,
   "tiers": {
     "100": {
-      "balance": 116.71284794460657,
+      "balance": 116.67806751591908,
       "peak": 116.71284794460657,
       "max_dd_pct": -8.702712767187162,
-      "trades": 47,
-      "wins": 21,
-      "losses": 26
+      "trades": 50,
+      "wins": 22,
+      "losses": 28
     },
     "1000": {
-      "balance": 1167.1284794460664,
+      "balance": 1166.7806751591916,
       "peak": 1167.1284794460664,
       "max_dd_pct": -8.702712767187142,
-      "trades": 47,
-      "wins": 21,
-      "losses": 26
+      "trades": 50,
+      "wins": 22,
+      "losses": 28
     },
     "10000": {
-      "balance": 11671.284794460662,
+      "balance": 11667.806751591912,
       "peak": 11671.284794460662,
       "max_dd_pct": -8.702712767187153,
-      "trades": 47,
-      "wins": 21,
-      "losses": 26
+      "trades": 50,
+      "wins": 22,
+      "losses": 28
     }
   },
-  "alerts_total": 15,
-  "alerts_followed": 9,
-  "alerts_not_followed": 5,
-  "trades_total": 47,
-  "trades_wins": 21,
-  "trades_losses": 26,
+  "alerts_total": 16,
+  "alerts_followed": 10,
+  "alerts_not_followed": 6,
+  "trades_total": 50,
+  "trades_wins": 22,
+  "trades_losses": 28,
   "sum_R": 15.999999999992312,
-  "trades_with_alert": 9,
-  "wins_with_alert": 4,
-  "trades_without_alert": 38,
+  "trades_with_alert": 10,
+  "wins_with_alert": 5,
+  "trades_without_alert": 40,
   "wins_without_alert": 17,
   "day": "2026-10-12",
-  "trades_today": 0,
-  "session": 124429,
-  "range_high": 4198.0,
-  "range_low": 4193.0,
-  "day_atr": 6.442857142857195,
-  "session_ema": 4175.974188862555,
+  "trades_today": 3,
+  "session": 124431,
+  "range_high": 4168.7,
+  "range_low": 4163.0,
+  "day_atr": 4.537857142857125,
+  "session_ema": 4175.470067374116,
   "range_ok": true,
   "alerted_up": false,
-  "alerted_dn": true,
+  "alerted_dn": false,
   "closes_before": [
-    4179.8,
-    4178.2,
-    4178.7
+    4168.5,
+    4168.0,
+    4167.8
   ]
 }
