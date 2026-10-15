@@ -1,63 +1,56 @@
 {
-  "last_bar_time": 1792045440,
-  "open_trade": {
-    "side": -1,
-    "entry": 4137.2,
-    "sl": 4143.917857142857,
-    "tp": 4123.7642857142855,
-    "entry_time": "2026-10-15T05:31:00Z",
-    "had_alert": true
-  },
+  "last_bar_time": 1792065360,
+  "open_trade": null,
   "tiers": {
     "100": {
-      "balance": 113.17887487418362,
+      "balance": 109.81734911154548,
       "peak": 116.71284794460657,
       "max_dd_pct": -8.702712767187162,
-      "trades": 56,
+      "trades": 59,
       "wins": 23,
-      "losses": 33
+      "losses": 36
     },
     "1000": {
-      "balance": 1131.7887487418368,
+      "balance": 1098.1734911154554,
       "peak": 1167.1284794460664,
       "max_dd_pct": -8.702712767187142,
-      "trades": 56,
+      "trades": 59,
       "wins": 23,
-      "losses": 33
+      "losses": 36
     },
     "10000": {
-      "balance": 11317.887487418368,
+      "balance": 10981.734911154555,
       "peak": 11671.284794460662,
       "max_dd_pct": -8.702712767187153,
-      "trades": 56,
+      "trades": 59,
       "wins": 23,
-      "losses": 33
+      "losses": 36
     }
   },
-  "alerts_total": 22,
-  "alerts_followed": 12,
-  "alerts_not_followed": 9,
-  "trades_total": 56,
+  "alerts_total": 25,
+  "alerts_followed": 14,
+  "alerts_not_followed": 11,
+  "trades_total": 59,
   "trades_wins": 23,
-  "trades_losses": 33,
-  "sum_R": 12.999999999992466,
-  "trades_with_alert": 11,
+  "trades_losses": 36,
+  "sum_R": 9.999999999992466,
+  "trades_with_alert": 14,
   "wins_with_alert": 5,
   "trades_without_alert": 45,
   "wins_without_alert": 18,
   "day": "2026-10-15",
-  "trades_today": 1,
-  "session": 124447,
-  "range_high": 4146.2,
-  "range_low": 4139.7,
-  "day_atr": 8.957142857142896,
-  "session_ema": 4154.145693018618,
+  "trades_today": 3,
+  "session": 124448,
+  "range_high": 4153.1,
+  "range_low": 4144.2,
+  "day_atr": 5.439999999999925,
+  "session_ema": 4153.161835077168,
   "range_ok": true,
-  "alerted_up": true,
+  "alerted_up": false,
   "alerted_dn": false,
   "closes_before": [
-    4135.3,
-    4135.1,
-    4137.8
+    4147.3,
+    4146.3,
+    4144.6
   ]
 }
