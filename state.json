@@ -1,56 +1,63 @@
 {
-  "last_bar_time": 1792105260,
-  "open_trade": null,
+  "last_bar_time": 1792113240,
+  "open_trade": {
+    "side": 1,
+    "entry": 4155.7,
+    "sl": 4153.653035714286,
+    "tp": 4159.793928571428,
+    "entry_time": "2026-10-16T01:11:00Z",
+    "had_alert": false
+  },
   "tiers": {
     "100": {
-      "balance": 109.81734911154548,
+      "balance": 108.71917562043002,
       "peak": 116.71284794460657,
       "max_dd_pct": -8.702712767187162,
-      "trades": 59,
+      "trades": 60,
       "wins": 23,
-      "losses": 36
+      "losses": 37
     },
     "1000": {
-      "balance": 1098.1734911154554,
+      "balance": 1087.1917562043009,
       "peak": 1167.1284794460664,
       "max_dd_pct": -8.702712767187142,
-      "trades": 59,
+      "trades": 60,
       "wins": 23,
-      "losses": 36
+      "losses": 37
     },
     "10000": {
-      "balance": 10981.734911154555,
+      "balance": 10871.91756204301,
       "peak": 11671.284794460662,
       "max_dd_pct": -8.702712767187153,
-      "trades": 59,
+      "trades": 60,
       "wins": 23,
-      "losses": 36
+      "losses": 37
     }
   },
-  "alerts_total": 25,
-  "alerts_followed": 14,
+  "alerts_total": 27,
+  "alerts_followed": 15,
   "alerts_not_followed": 11,
-  "trades_total": 59,
+  "trades_total": 60,
   "trades_wins": 23,
-  "trades_losses": 36,
-  "sum_R": 9.999999999992466,
-  "trades_with_alert": 14,
+  "trades_losses": 37,
+  "sum_R": 8.999999999992466,
+  "trades_with_alert": 15,
   "wins_with_alert": 5,
   "trades_without_alert": 45,
   "wins_without_alert": 18,
-  "day": "2026-10-15",
-  "trades_today": 3,
-  "session": 124451,
-  "range_high": 4174.8,
-  "range_low": 4170.4,
-  "day_atr": 4.651428571428629,
-  "session_ema": 4153.476315234519,
+  "day": "2026-10-16",
+  "trades_today": 2,
+  "session": 124452,
+  "range_high": 4154.4,
+  "range_low": 4151.0,
+  "day_atr": 2.729285714285652,
+  "session_ema": 4153.968183635399,
   "range_ok": true,
   "alerted_up": false,
-  "alerted_dn": false,
+  "alerted_dn": true,
   "closes_before": [
-    4163.2,
-    4162.3,
-    4162.7
+    4157.6,
+    4156.7,
+    4156.2
   ]
 }
