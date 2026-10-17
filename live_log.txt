@@ -279,3 +279,6 @@
 [2026-10-17 08:45:48 UTC] Session 124460 range set: 4160.80-4161.90 (width 1.10, ATR15 0.54, EMA100(1h) 4159.175830823767) -> SKIPPED (range too wide vs ATR)
 [2026-10-17 12:28:40 UTC] PAPER TRADE CLOSED  BUY entry 4161.20 -> exit 4159.64  result=SL  R=-1.00  (had_alert=False)
 [2026-10-17 12:28:41 UTC] Session 124461 range set: 4161.30-4161.90 (width 0.60, ATR15 1.27, EMA100(1h) 4159.245585242724) -> TRADEABLE
+[2026-10-17 15:53:02 UTC] 🔔 ALERT FIRED - WATCH SELL  approaching 4161.30  [alert_id=124461-DN]
+[2026-10-17 15:53:02 UTC] >>> SELL SIGNAL  entry~4159.00  SL 4159.95  TP 4157.09  (had_alert=True, trade 2/3 today)
+[2026-10-17 15:53:02 UTC] PAPER TRADE CLOSED  SELL entry 4159.00 -> exit 4157.09  result=TP  R=2.00  (had_alert=True)
