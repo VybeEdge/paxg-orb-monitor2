@@ -1,56 +1,56 @@
 {
-  "last_bar_time": 1792299060,
+  "last_bar_time": 1792315020,
   "open_trade": null,
   "tiers": {
     "100": {
-      "balance": 113.07772310926349,
-      "peak": 116.71284794460657,
+      "balance": 116.46960249164896,
+      "peak": 117.64606312287773,
       "max_dd_pct": -8.702712767187162,
-      "trades": 65,
-      "wins": 26,
-      "losses": 39
+      "trades": 68,
+      "wins": 28,
+      "losses": 40
     },
     "1000": {
-      "balance": 1130.7772310926352,
-      "peak": 1167.1284794460664,
+      "balance": 1164.69602491649,
+      "peak": 1176.4606312287776,
       "max_dd_pct": -8.702712767187142,
-      "trades": 65,
-      "wins": 26,
-      "losses": 39
+      "trades": 68,
+      "wins": 28,
+      "losses": 40
     },
     "10000": {
-      "balance": 11307.772310926357,
-      "peak": 11671.284794460662,
+      "balance": 11646.960249164904,
+      "peak": 11764.606312287782,
       "max_dd_pct": -8.702712767187153,
-      "trades": 65,
-      "wins": 26,
-      "losses": 39
+      "trades": 68,
+      "wins": 28,
+      "losses": 40
     }
   },
   "alerts_total": 28,
   "alerts_followed": 17,
   "alerts_not_followed": 11,
-  "trades_total": 65,
-  "trades_wins": 26,
-  "trades_losses": 39,
-  "sum_R": 12.999999999994374,
+  "trades_total": 68,
+  "trades_wins": 28,
+  "trades_losses": 40,
+  "sum_R": 15.999999999994373,
   "trades_with_alert": 17,
   "wins_with_alert": 7,
-  "trades_without_alert": 48,
-  "wins_without_alert": 19,
+  "trades_without_alert": 51,
+  "wins_without_alert": 21,
   "day": "2026-10-18",
-  "trades_today": 0,
-  "session": 124465,
-  "range_high": 4157.3,
-  "range_low": 4157.2,
-  "day_atr": 0.5999999999996491,
-  "session_ema": 4158.05230364682,
+  "trades_today": 3,
+  "session": 124466,
+  "range_high": 4154.0,
+  "range_low": 4153.0,
+  "day_atr": 0.5214285714287143,
+  "session_ema": 4157.853568625077,
   "range_ok": true,
   "alerted_up": false,
   "alerted_dn": false,
   "closes_before": [
-    4157.2,
-    4157.25,
-    4157.25
+    4155.0,
+    4155.3,
+    4155.8
   ]
 }
