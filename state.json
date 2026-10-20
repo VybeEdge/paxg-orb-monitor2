@@ -1,56 +1,56 @@
 {
-  "last_bar_time": 1792461300,
+  "last_bar_time": 1792480860,
   "open_trade": null,
   "tiers": {
     "100": {
-      "balance": 113.01033882804448,
+      "balance": 112.97666174707395,
       "peak": 117.64606312287773,
       "max_dd_pct": -8.702712767187162,
-      "trades": 71,
-      "wins": 28,
-      "losses": 43
+      "trades": 74,
+      "wins": 29,
+      "losses": 45
     },
     "1000": {
-      "balance": 1130.1033882804452,
+      "balance": 1129.7666174707397,
       "peak": 1176.4606312287776,
       "max_dd_pct": -8.702712767187142,
-      "trades": 71,
-      "wins": 28,
-      "losses": 43
+      "trades": 74,
+      "wins": 29,
+      "losses": 45
     },
     "10000": {
-      "balance": 11301.033882804459,
+      "balance": 11297.666174707403,
       "peak": 11764.606312287782,
       "max_dd_pct": -8.702712767187153,
-      "trades": 71,
-      "wins": 28,
-      "losses": 43
+      "trades": 74,
+      "wins": 29,
+      "losses": 45
     }
   },
-  "alerts_total": 31,
-  "alerts_followed": 20,
+  "alerts_total": 33,
+  "alerts_followed": 21,
   "alerts_not_followed": 11,
-  "trades_total": 71,
-  "trades_wins": 28,
-  "trades_losses": 43,
-  "sum_R": 12.999999999994373,
-  "trades_with_alert": 20,
-  "wins_with_alert": 7,
-  "trades_without_alert": 51,
+  "trades_total": 74,
+  "trades_wins": 29,
+  "trades_losses": 45,
+  "sum_R": 12.999999999994559,
+  "trades_with_alert": 21,
+  "wins_with_alert": 8,
+  "trades_without_alert": 53,
   "wins_without_alert": 21,
   "day": "2026-10-20",
-  "trades_today": 0,
-  "session": 124476,
-  "range_high": 4137.73,
-  "range_low": 4131.1,
-  "day_atr": 2.766428571428475,
-  "session_ema": 4154.926378236057,
-  "range_ok": false,
-  "alerted_up": false,
+  "trades_today": 3,
+  "session": 124477,
+  "range_high": 4145.4,
+  "range_low": 4140.1,
+  "day_atr": 6.4892857142857405,
+  "session_ema": 4153.732645965156,
+  "range_ok": true,
+  "alerted_up": true,
   "alerted_dn": false,
   "closes_before": [
-    4125.9,
-    4126.1,
-    4126.2
+    4130.57,
+    4130.5,
+    4130.7
   ]
 }
