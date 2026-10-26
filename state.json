@@ -1,56 +1,56 @@
 {
-  "last_bar_time": 1792989480,
+  "last_bar_time": 1793010660,
   "open_trade": null,
   "tiers": {
     "100": {
-      "balance": 106.27022215039952,
+      "balance": 104.15544472960657,
       "peak": 117.64606312287773,
-      "max_dd_pct": -11.414333495288647,
-      "trades": 89,
+      "max_dd_pct": -11.467122685763503,
+      "trades": 91,
       "wins": 32,
-      "losses": 57
+      "losses": 59
     },
     "1000": {
-      "balance": 1062.7022215039956,
+      "balance": 1041.5544472960662,
       "peak": 1176.4606312287776,
-      "max_dd_pct": -11.414333495288641,
-      "trades": 89,
+      "max_dd_pct": -11.467122685763483,
+      "trades": 91,
       "wins": 32,
-      "losses": 57
+      "losses": 59
     },
     "10000": {
-      "balance": 10627.022215039959,
+      "balance": 10415.544472960664,
       "peak": 11764.606312287782,
-      "max_dd_pct": -11.414333495288655,
-      "trades": 89,
+      "max_dd_pct": -11.467122685763508,
+      "trades": 91,
       "wins": 32,
-      "losses": 57
+      "losses": 59
     }
   },
-  "alerts_total": 42,
-  "alerts_followed": 24,
+  "alerts_total": 44,
+  "alerts_followed": 26,
   "alerts_not_followed": 17,
-  "trades_total": 89,
+  "trades_total": 91,
   "trades_wins": 32,
-  "trades_losses": 57,
-  "sum_R": 6.999999999995428,
-  "trades_with_alert": 24,
+  "trades_losses": 59,
+  "sum_R": 4.999999999995428,
+  "trades_with_alert": 26,
   "wins_with_alert": 9,
   "trades_without_alert": 65,
   "wins_without_alert": 23,
   "day": "2026-10-26",
-  "trades_today": 0,
-  "session": 124513,
-  "range_high": 4018.3,
-  "range_low": 4015.9,
-  "day_atr": 7.95000000000011,
-  "session_ema": 4029.9695056394685,
+  "trades_today": 2,
+  "session": 124514,
+  "range_high": 4026.1,
+  "range_low": 4019.4,
+  "day_atr": 4.985714285714266,
+  "session_ema": 4029.327828325905,
   "range_ok": true,
-  "alerted_up": false,
-  "alerted_dn": true,
+  "alerted_up": true,
+  "alerted_dn": false,
   "closes_before": [
-    4021.9,
-    4021.1,
-    4021.1
+    4023.8,
+    4024.6,
+    4025.0
   ]
 }
