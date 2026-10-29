@@ -1,5 +1,5 @@
 {
-  "last_bar_time": 1793287200,
+  "last_bar_time": 1793305380,
   "open_trade": null,
   "tiers": {
     "100": {
@@ -40,17 +40,17 @@
   "wins_without_alert": 23,
   "day": "2026-10-29",
   "trades_today": 3,
-  "session": 124533,
-  "range_high": 4034.3,
-  "range_low": 4022.1,
-  "day_atr": 7.168571428571503,
-  "session_ema": 4038.0144738123295,
+  "session": 124535,
+  "range_high": 4033.5,
+  "range_low": 4024.9,
+  "day_atr": 5.721428571428597,
+  "session_ema": 4035.863048154494,
   "range_ok": true,
   "alerted_up": false,
   "alerted_dn": false,
   "closes_before": [
-    4026.0,
-    4023.8,
-    4025.8
+    4028.2,
+    4027.3,
+    4027.5
   ]
 }
