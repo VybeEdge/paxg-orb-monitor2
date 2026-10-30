@@ -1,52 +1,56 @@
 {
-  "last_bar_time": 1793318760,
+  "last_bar_time": 1793338980,
   "open_trade": null,
   "tiers": {
     "100": {
-      "balance": 103.02173393244708,
+      "balance": 99.96188541291947,
       "peak": 117.64606312287773,
-      "max_dd_pct": -14.122236876846594,
-      "trades": 101,
+      "max_dd_pct": -15.031678273405271,
+      "trades": 104,
       "wins": 35,
-      "losses": 66
+      "losses": 69
     },
     "1000": {
-      "balance": 1030.2173393244711,
+      "balance": 999.6188541291949,
       "peak": 1176.4606312287776,
-      "max_dd_pct": -14.122236876846571,
-      "trades": 101,
+      "max_dd_pct": -15.031678273405275,
+      "trades": 104,
       "wins": 35,
-      "losses": 66
+      "losses": 69
     },
     "10000": {
-      "balance": 10302.173393244713,
+      "balance": 9996.188541291953,
       "peak": 11764.606312287782,
-      "max_dd_pct": -14.122236876846625,
-      "trades": 101,
+      "max_dd_pct": -15.031678273405285,
+      "trades": 104,
       "wins": 35,
-      "losses": 66
+      "losses": 69
     }
   },
-  "alerts_total": 50,
-  "alerts_followed": 31,
-  "alerts_not_followed": 19,
-  "trades_total": 101,
+  "alerts_total": 52,
+  "alerts_followed": 32,
+  "alerts_not_followed": 20,
+  "trades_total": 104,
   "trades_wins": 35,
-  "trades_losses": 66,
-  "sum_R": 3.999999999995403,
-  "trades_with_alert": 31,
+  "trades_losses": 69,
+  "sum_R": 0.9999999999954028,
+  "trades_with_alert": 32,
   "wins_with_alert": 12,
-  "trades_without_alert": 70,
+  "trades_without_alert": 72,
   "wins_without_alert": 23,
   "day": "2026-10-30",
-  "trades_today": 0,
-  "session": 124536,
-  "range_high": 4013.2,
-  "range_low": 4009.8,
-  "day_atr": null,
-  "session_ema": null,
-  "range_ok": false,
+  "trades_today": 3,
+  "session": 124537,
+  "range_high": 4001.5,
+  "range_low": 3995.3,
+  "day_atr": 8.021428571428553,
+  "session_ema": 4031.895597298034,
+  "range_ok": true,
   "alerted_up": false,
   "alerted_dn": false,
-  "closes_before": []
+  "closes_before": [
+    4009.3,
+    4010.1,
+    4010.3
+  ]
 }
