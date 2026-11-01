@@ -495,3 +495,4 @@
 [2026-11-01 17:58:58 UTC] >>> SELL SIGNAL  entry~3896.50  SL 3897.18  TP 3895.15  (had_alert=False, trade 3/3 today)
 [2026-11-01 17:58:58 UTC] PAPER TRADE CLOSED  SELL entry 3896.50 -> exit 3895.15  result=TP  R=2.00  (had_alert=False)
 [2026-11-01 17:58:59 UTC] Session 124552 range set: 3894.60-3896.60 (width 2.00, ATR15 0.81, EMA100(1h) 3943.1260592967915) -> SKIPPED (range too wide vs ATR)
+[2026-11-01 21:56:41 UTC] Session 124553 range set: 3893.00-3893.65 (width 0.65, ATR15 0.92, EMA100(1h) 3939.445350812369) -> TRADEABLE
