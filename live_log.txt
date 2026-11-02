@@ -501,3 +501,8 @@
 [2026-11-02 01:24:56 UTC] PAPER TRADE CLOSED  SELL entry 3909.80 -> exit 3912.81  result=SL  R=-1.00  (had_alert=False)
 [2026-11-02 01:24:56 UTC] 🔔 ALERT FIRED - WATCH SELL  approaching 3910.10  [alert_id=124554-DN]
 [2026-11-02 01:24:56 UTC] 🔔 ALERT FIRED - WATCH BUY  approaching 3914.90  [alert_id=124554-UP]
+[2026-11-02 08:00:02 UTC] >>> SELL SIGNAL  entry~3908.50  SL 3911.51  TP 3902.48  (had_alert=True, trade 2/3 today)
+[2026-11-02 08:00:02 UTC] PAPER TRADE CLOSED  SELL entry 3908.50 -> exit 3911.51  result=SL  R=-1.00  (had_alert=True)
+[2026-11-02 08:00:02 UTC] >>> SELL SIGNAL  entry~3909.70  SL 3912.71  TP 3903.68  (had_alert=False, trade 3/3 today)
+[2026-11-02 08:00:02 UTC] PAPER TRADE CLOSED  SELL entry 3909.70 -> exit 3912.71  result=SL  R=-1.00  (had_alert=False)
+[2026-11-02 08:00:03 UTC] Session 124555 range set: 3912.60-3917.70 (width 5.10, ATR15 8.30, EMA100(1h) 3934.8288699816694) -> TRADEABLE

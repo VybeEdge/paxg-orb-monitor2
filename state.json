@@ -1,56 +1,56 @@
 {
-  "last_bar_time": 1793582580,
+  "last_bar_time": 1793606340,
   "open_trade": null,
   "tiers": {
     "100": {
-      "balance": 98.90329383616614,
+      "balance": 96.93511828882643,
       "peak": 117.64606312287773,
-      "max_dd_pct": -16.74736455649771,
-      "trades": 111,
+      "max_dd_pct": -17.60445210344128,
+      "trades": 113,
       "wins": 37,
-      "losses": 74
+      "losses": 76
     },
     "1000": {
-      "balance": 989.0329383616615,
+      "balance": 969.3511828882645,
       "peak": 1176.4606312287776,
-      "max_dd_pct": -16.747364556497722,
-      "trades": 111,
+      "max_dd_pct": -17.604452103441286,
+      "trades": 113,
       "wins": 37,
-      "losses": 74
+      "losses": 76
     },
     "10000": {
-      "balance": 9890.329383616618,
+      "balance": 9693.511828882647,
       "peak": 11764.606312287782,
-      "max_dd_pct": -16.747364556497743,
-      "trades": 111,
+      "max_dd_pct": -17.604452103441307,
+      "trades": 113,
       "wins": 37,
-      "losses": 74
+      "losses": 76
     }
   },
   "alerts_total": 60,
-  "alerts_followed": 33,
-  "alerts_not_followed": 25,
-  "trades_total": 111,
+  "alerts_followed": 34,
+  "alerts_not_followed": 26,
+  "trades_total": 113,
   "trades_wins": 37,
-  "trades_losses": 74,
-  "sum_R": -4.837907852106582e-12,
-  "trades_with_alert": 33,
+  "trades_losses": 76,
+  "sum_R": -2.000000000004838,
+  "trades_with_alert": 34,
   "wins_with_alert": 13,
-  "trades_without_alert": 78,
+  "trades_without_alert": 79,
   "wins_without_alert": 24,
   "day": "2026-11-02",
-  "trades_today": 1,
-  "session": 124554,
-  "range_high": 3914.9,
-  "range_low": 3910.1,
-  "day_atr": 4.013571428571432,
-  "session_ema": 3936.7187004400685,
+  "trades_today": 3,
+  "session": 124555,
+  "range_high": 3917.7,
+  "range_low": 3912.6,
+  "day_atr": 8.299999999999955,
+  "session_ema": 3934.8288699816694,
   "range_ok": true,
-  "alerted_up": true,
-  "alerted_dn": true,
+  "alerted_up": false,
+  "alerted_dn": false,
   "closes_before": [
-    3922.2,
-    3921.4,
-    3918.6
+    3913.5,
+    3913.9,
+    3913.8
   ]
 }
