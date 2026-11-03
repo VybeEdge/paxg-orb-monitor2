@@ -1,56 +1,56 @@
 {
-  "last_bar_time": 1793643060,
+  "last_bar_time": 1793667660,
   "open_trade": null,
   "tiers": {
     "100": {
-      "balance": 96.93511828882643,
+      "balance": 96.90623162357636,
       "peak": 117.64606312287773,
-      "max_dd_pct": -17.60445210344128,
-      "trades": 113,
-      "wins": 37,
-      "losses": 76
+      "max_dd_pct": -17.629005976714453,
+      "trades": 116,
+      "wins": 38,
+      "losses": 78
     },
     "1000": {
-      "balance": 969.3511828882645,
+      "balance": 969.0623162357638,
       "peak": 1176.4606312287776,
-      "max_dd_pct": -17.604452103441286,
-      "trades": 113,
-      "wins": 37,
-      "losses": 76
+      "max_dd_pct": -17.62900597671446,
+      "trades": 116,
+      "wins": 38,
+      "losses": 78
     },
     "10000": {
-      "balance": 9693.511828882647,
+      "balance": 9690.62316235764,
       "peak": 11764.606312287782,
-      "max_dd_pct": -17.604452103441307,
-      "trades": 113,
-      "wins": 37,
-      "losses": 76
+      "max_dd_pct": -17.629005976714478,
+      "trades": 116,
+      "wins": 38,
+      "losses": 78
     }
   },
   "alerts_total": 60,
   "alerts_followed": 34,
   "alerts_not_followed": 26,
-  "trades_total": 113,
-  "trades_wins": 37,
-  "trades_losses": 76,
+  "trades_total": 116,
+  "trades_wins": 38,
+  "trades_losses": 78,
   "sum_R": -2.000000000004838,
   "trades_with_alert": 34,
   "wins_with_alert": 13,
-  "trades_without_alert": 79,
-  "wins_without_alert": 24,
-  "day": "2026-11-02",
+  "trades_without_alert": 82,
+  "wins_without_alert": 25,
+  "day": "2026-11-03",
   "trades_today": 3,
-  "session": 124558,
-  "range_high": 3962.9,
-  "range_low": 3956.6,
-  "day_atr": 11.542142857142803,
-  "session_ema": 3933.588537373733,
+  "session": 124560,
+  "range_high": 3953.6,
+  "range_low": 3949.9,
+  "day_atr": 3.0785714285713572,
+  "session_ema": 3936.3448170876463,
   "range_ok": true,
   "alerted_up": false,
   "alerted_dn": false,
   "closes_before": [
-    3965.3,
-    3965.4,
-    3964.8
+    3959.9,
+    3954.9,
+    3951.6
   ]
 }
