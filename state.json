@@ -1,63 +1,56 @@
 {
-  "last_bar_time": 1794017460,
-  "open_trade": {
-    "side": 1,
-    "entry": 4065.1,
-    "sl": 4063.4392857142857,
-    "tp": 4068.4214285714284,
-    "entry_time": "2026-11-07T01:48:00Z",
-    "had_alert": false
-  },
+  "last_bar_time": 1794041400,
+  "open_trade": null,
   "tiers": {
     "100": {
-      "balance": 103.7835947149953,
+      "balance": 102.74575876784535,
       "peak": 117.64606312287773,
       "max_dd_pct": -19.26818875777784,
-      "trades": 127,
+      "trades": 128,
       "wins": 44,
-      "losses": 83
+      "losses": 84
     },
     "1000": {
-      "balance": 1037.835947149953,
+      "balance": 1027.4575876784534,
       "peak": 1176.4606312287776,
       "max_dd_pct": -19.268188757777843,
-      "trades": 127,
+      "trades": 128,
       "wins": 44,
-      "losses": 83
+      "losses": 84
     },
     "10000": {
-      "balance": 10378.359471499534,
+      "balance": 10274.575876784538,
       "peak": 11764.606312287782,
       "max_dd_pct": -19.268188757777853,
-      "trades": 127,
+      "trades": 128,
       "wins": 44,
-      "losses": 83
+      "losses": 84
     }
   },
   "alerts_total": 62,
   "alerts_followed": 36,
   "alerts_not_followed": 26,
-  "trades_total": 127,
+  "trades_total": 128,
   "trades_wins": 44,
-  "trades_losses": 83,
-  "sum_R": 4.999999999995287,
+  "trades_losses": 84,
+  "sum_R": 3.9999999999952873,
   "trades_with_alert": 36,
   "wins_with_alert": 15,
-  "trades_without_alert": 91,
+  "trades_without_alert": 92,
   "wins_without_alert": 29,
   "day": "2026-11-07",
   "trades_today": 3,
-  "session": 124584,
-  "range_high": 4059.6,
-  "range_low": 4058.5,
-  "day_atr": 2.2142857142857144,
-  "session_ema": 4032.7948638780467,
-  "range_ok": true,
+  "session": 124586,
+  "range_high": 4062.7,
+  "range_low": 4060.3,
+  "day_atr": 0.9678571428571558,
+  "session_ema": 4037.4304230609782,
+  "range_ok": false,
   "alerted_up": false,
   "alerted_dn": false,
   "closes_before": [
-    4067.1,
-    4066.2,
-    4066.1
+    4060.6,
+    4060.8,
+    4061.1
   ]
 }
