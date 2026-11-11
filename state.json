@@ -1,6 +1,13 @@
 {
-  "last_bar_time": 1794342180,
-  "open_trade": null,
+  "last_bar_time": 1794357960,
+  "open_trade": {
+    "side": -1,
+    "entry": 4027.9,
+    "sl": 4030.5035714285714,
+    "tp": 4022.692857142857,
+    "entry_time": "2026-11-11T00:32:00Z",
+    "had_alert": true
+  },
   "tiers": {
     "100": {
       "balance": 105.7646566243239,
@@ -27,8 +34,8 @@
       "losses": 89
     }
   },
-  "alerts_total": 69,
-  "alerts_followed": 39,
+  "alerts_total": 71,
+  "alerts_followed": 40,
   "alerts_not_followed": 30,
   "trades_total": 137,
   "trades_wins": 48,
@@ -38,19 +45,19 @@
   "wins_with_alert": 16,
   "trades_without_alert": 98,
   "wins_without_alert": 32,
-  "day": "2026-11-10",
-  "trades_today": 3,
-  "session": 124607,
-  "range_high": 4026.1,
-  "range_low": 4019.6,
-  "day_atr": 5.328571428571389,
-  "session_ema": 4067.067202479588,
+  "day": "2026-11-11",
+  "trades_today": 1,
+  "session": 124608,
+  "range_high": 4035.3,
+  "range_low": 4030.7,
+  "day_atr": 3.4714285714286297,
+  "session_ema": 4063.9944624951568,
   "range_ok": true,
-  "alerted_up": false,
+  "alerted_up": true,
   "alerted_dn": false,
   "closes_before": [
-    4026.8,
-    4027.5,
-    4027.53
+    4029.0,
+    4029.1,
+    4027.4
   ]
 }
