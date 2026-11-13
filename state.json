@@ -1,63 +1,56 @@
 {
-  "last_bar_time": 1794547320,
-  "open_trade": {
-    "side": -1,
-    "entry": 3907.3,
-    "sl": 3913.4896428571433,
-    "tp": 3894.9207142857144,
-    "entry_time": "2026-11-13T05:22:00Z",
-    "had_alert": true
-  },
+  "last_bar_time": 1794575880,
+  "open_trade": null,
   "tiers": {
     "100": {
-      "balance": 107.81566288692656,
+      "balance": 108.87225638321836,
       "peak": 117.64606312287773,
       "max_dd_pct": -19.26818875777784,
-      "trades": 144,
-      "wins": 51,
-      "losses": 93
+      "trades": 146,
+      "wins": 52,
+      "losses": 94
     },
     "1000": {
-      "balance": 1078.1566288692654,
+      "balance": 1088.7225638321834,
       "peak": 1176.4606312287776,
       "max_dd_pct": -19.268188757777843,
-      "trades": 144,
-      "wins": 51,
-      "losses": 93
+      "trades": 146,
+      "wins": 52,
+      "losses": 94
     },
     "10000": {
-      "balance": 10781.56628869266,
+      "balance": 10887.225638321841,
       "peak": 11764.606312287782,
       "max_dd_pct": -19.268188757777853,
-      "trades": 144,
-      "wins": 51,
-      "losses": 93
+      "trades": 146,
+      "wins": 52,
+      "losses": 94
     }
   },
   "alerts_total": 75,
   "alerts_followed": 43,
   "alerts_not_followed": 32,
-  "trades_total": 144,
-  "trades_wins": 51,
-  "trades_losses": 93,
-  "sum_R": 8.999999999995367,
-  "trades_with_alert": 42,
-  "wins_with_alert": 18,
-  "trades_without_alert": 102,
+  "trades_total": 146,
+  "trades_wins": 52,
+  "trades_losses": 94,
+  "sum_R": 9.999999999995294,
+  "trades_with_alert": 43,
+  "wins_with_alert": 19,
+  "trades_without_alert": 103,
   "wins_without_alert": 33,
   "day": "2026-11-13",
-  "trades_today": 2,
-  "session": 124621,
-  "range_high": 3914.8,
-  "range_low": 3907.5,
-  "day_atr": 8.252857142857172,
-  "session_ema": 3987.467839179427,
+  "trades_today": 3,
+  "session": 124623,
+  "range_high": 3884.0,
+  "range_low": 3880.5,
+  "day_atr": 5.580714285714229,
+  "session_ema": 3972.4962335024234,
   "range_ok": true,
   "alerted_up": false,
   "alerted_dn": false,
   "closes_before": [
-    3909.1,
-    3908.6,
-    3907.3
+    3870.3,
+    3870.0,
+    3869.1
   ]
 }
