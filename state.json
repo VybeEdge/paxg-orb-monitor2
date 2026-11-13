@@ -1,56 +1,63 @@
 {
-  "last_bar_time": 1794527580,
-  "open_trade": null,
+  "last_bar_time": 1794547320,
+  "open_trade": {
+    "side": -1,
+    "entry": 3907.3,
+    "sl": 3913.4896428571433,
+    "tp": 3894.9207142857144,
+    "entry_time": "2026-11-13T05:22:00Z",
+    "had_alert": true
+  },
   "tiers": {
     "100": {
-      "balance": 108.9047099867945,
+      "balance": 107.81566288692656,
       "peak": 117.64606312287773,
       "max_dd_pct": -19.26818875777784,
-      "trades": 143,
+      "trades": 144,
       "wins": 51,
-      "losses": 92
+      "losses": 93
     },
     "1000": {
-      "balance": 1089.0470998679448,
+      "balance": 1078.1566288692654,
       "peak": 1176.4606312287776,
       "max_dd_pct": -19.268188757777843,
-      "trades": 143,
+      "trades": 144,
       "wins": 51,
-      "losses": 92
+      "losses": 93
     },
     "10000": {
-      "balance": 10890.470998679455,
+      "balance": 10781.56628869266,
       "peak": 11764.606312287782,
       "max_dd_pct": -19.268188757777853,
-      "trades": 143,
+      "trades": 144,
       "wins": 51,
-      "losses": 92
+      "losses": 93
     }
   },
-  "alerts_total": 74,
-  "alerts_followed": 42,
+  "alerts_total": 75,
+  "alerts_followed": 43,
   "alerts_not_followed": 32,
-  "trades_total": 143,
+  "trades_total": 144,
   "trades_wins": 51,
-  "trades_losses": 92,
-  "sum_R": 9.999999999995367,
+  "trades_losses": 93,
+  "sum_R": 8.999999999995367,
   "trades_with_alert": 42,
   "wins_with_alert": 18,
-  "trades_without_alert": 101,
+  "trades_without_alert": 102,
   "wins_without_alert": 33,
-  "day": "2026-11-12",
-  "trades_today": 3,
-  "session": 124619,
-  "range_high": 3886.0,
-  "range_low": 3881.5,
-  "day_atr": 6.3857142857142275,
-  "session_ema": 4003.3431334134407,
+  "day": "2026-11-13",
+  "trades_today": 2,
+  "session": 124621,
+  "range_high": 3914.8,
+  "range_low": 3907.5,
+  "day_atr": 8.252857142857172,
+  "session_ema": 3987.467839179427,
   "range_ok": true,
   "alerted_up": false,
   "alerted_dn": false,
   "closes_before": [
-    3882.4,
-    3882.2,
-    3881.9
+    3909.1,
+    3908.6,
+    3907.3
   ]
 }
