@@ -686,3 +686,11 @@
 [2026-11-15 17:00:04 UTC] Session 124636 range set: 3819.60-3823.60 (width 4.00, ATR15 3.39, EMA100(1h) 3885.837878356125) -> TRADEABLE
 [2026-11-15 17:00:04 UTC] PAPER TRADE CLOSED  SELL entry 3822.30 -> exit 3825.38  result=SL  R=-1.00  (had_alert=True)
 [2026-11-15 21:40:27 UTC] Session 124637 range set: 3840.20-3842.70 (width 2.50, ATR15 4.71, EMA100(1h) 3882.0711793657892) -> TRADEABLE
+[2026-11-16 01:25:25 UTC] Session 124638 range set: 3876.30-3886.50 (width 10.20, ATR15 8.33, EMA100(1h) 3880.6874640733913) -> TRADEABLE
+[2026-11-16 01:25:25 UTC] 🔔 ALERT FIRED - WATCH SELL  approaching 3876.30  [alert_id=124638-DN]
+[2026-11-16 01:25:25 UTC] >>> SELL SIGNAL  entry~3873.80  SL 3880.05  TP 3861.31  (had_alert=True, trade 1/3 today)
+[2026-11-16 01:25:25 UTC] PAPER TRADE CLOSED  SELL entry 3873.80 -> exit 3880.05  result=SL  R=-1.00  (had_alert=True)
+[2026-11-16 01:25:25 UTC] >>> SELL SIGNAL  entry~3862.20  SL 3868.45  TP 3849.71  (had_alert=False, trade 2/3 today)
+[2026-11-16 01:25:25 UTC] PAPER TRADE CLOSED  SELL entry 3862.20 -> exit 3849.71  result=TP  R=2.00  (had_alert=False)
+[2026-11-16 01:25:25 UTC] >>> SELL SIGNAL  entry~3853.80  SL 3860.05  TP 3841.31  (had_alert=False, trade 3/3 today)
+[2026-11-16 01:25:25 UTC] PAPER TRADE CLOSED  SELL entry 3853.80 -> exit 3860.05  result=SL  R=-1.00  (had_alert=False)
