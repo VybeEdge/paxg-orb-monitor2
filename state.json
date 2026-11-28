@@ -1,63 +1,56 @@
 {
-  "last_bar_time": 1795841820,
-  "open_trade": {
-    "side": 1,
-    "entry": 3652.6,
-    "sl": 3650.4839285714284,
-    "tp": 3656.8321428571426,
-    "entry_time": "2026-11-28T04:30:00Z",
-    "had_alert": false
-  },
+  "last_bar_time": 1795874520,
+  "open_trade": null,
   "tiers": {
     "100": {
-      "balance": 127.10578857141192,
+      "balance": 125.8347306856978,
       "peak": 135.0868391418392,
       "max_dd_pct": -19.26818875777784,
-      "trades": 190,
+      "trades": 191,
       "wins": 72,
-      "losses": 118
+      "losses": 119
     },
     "1000": {
-      "balance": 1271.057885714119,
+      "balance": 1258.3473068569779,
       "peak": 1350.8683914183914,
       "max_dd_pct": -19.268188757777843,
-      "trades": 190,
+      "trades": 191,
       "wins": 72,
-      "losses": 118
+      "losses": 119
     },
     "10000": {
-      "balance": 12710.578857141201,
+      "balance": 12583.473068569789,
       "peak": 13508.683914183925,
       "max_dd_pct": -19.268188757777853,
-      "trades": 190,
+      "trades": 191,
       "wins": 72,
-      "losses": 118
+      "losses": 119
     }
   },
   "alerts_total": 96,
   "alerts_followed": 56,
-  "alerts_not_followed": 39,
-  "trades_total": 190,
+  "alerts_not_followed": 40,
+  "trades_total": 191,
   "trades_wins": 72,
-  "trades_losses": 118,
-  "sum_R": 25.99999999999547,
+  "trades_losses": 119,
+  "sum_R": 24.99999999999547,
   "trades_with_alert": 56,
   "wins_with_alert": 25,
-  "trades_without_alert": 134,
+  "trades_without_alert": 135,
   "wins_without_alert": 47,
   "day": "2026-11-28",
   "trades_today": 3,
-  "session": 124711,
-  "range_high": 3652.0,
-  "range_low": 3650.3,
-  "day_atr": 2.8214285714285063,
-  "session_ema": 3600.0829821217203,
+  "session": 124713,
+  "range_high": 3648.5,
+  "range_low": 3647.3,
+  "day_atr": 1.4071428571428117,
+  "session_ema": 3607.221476104864,
   "range_ok": true,
   "alerted_up": false,
-  "alerted_dn": true,
+  "alerted_dn": false,
   "closes_before": [
-    3651.7,
-    3651.4,
-    3651.5
+    3642.2,
+    3641.5,
+    3641.5
   ]
 }
